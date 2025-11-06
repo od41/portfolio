@@ -18,7 +18,7 @@ A collection of dashboards, analytics projects, and visual explorations — desi
 - **React + TypeScript:** strongly typed dashboard components and API hooks.  
 - **Recharts.js:** custom tooltips, gradient fills, and adaptive axis scaling.  
 
-![Fleet Dashboard Screenshot](images/fleet-dashboard.png)
+![Fleet Dashboard Screenshot](images/tfleet-dashboard.png)
 
 ---
 
