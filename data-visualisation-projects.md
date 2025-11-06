@@ -30,7 +30,7 @@ A collection of dashboards, analytics projects, and visual explorations — desi
 
 ![Yogo Dashboard Screenshot](images/yogo-dashboard.png)
 
-[Open Demo](https://yogo-demo.vercel.app/)
+[Open Demo](https://yogo-demo.vercel.app/) | 
 [Open Source](https://github.com/od41/yogo-uiki)
 
 ---
