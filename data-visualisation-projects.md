@@ -12,42 +12,30 @@ A collection of dashboards, analytics projects, and visual explorations — desi
 
 **Highlights**
 - Visualized truck utilization, delivery efficiency, and route performance.
-- Integrated WebSocket streams for live vehicle tracking and delivery updates.
-- Optimized Recharts performance using `PureComponent` and virtualized rendering.
 - Built reusable chart components (line, bar, area) with type-safe data models.
 
 **Built With**
 - **React + TypeScript:** strongly typed dashboard components and API hooks.  
 - **Recharts.js:** custom tooltips, gradient fills, and adaptive axis scaling.  
-- **FastAPI:** backend REST API serving metrics from a PostgreSQL data warehouse.  
-- **Caching Layer:** Redis for pre-aggregated daily stats to keep chart load times under 100ms.  
 
-[🔗 View Live Demo](https://example.com/tfleet-dashboard)  
-[📂 View Source](https://github.com/yourusername/tfleet-dashboard)
+![Fleet Dashboard Screenshot](images/fleet-dashboard.png)
 
 ---
 
 ## Exploratory Data Projects
 
-### • Covid19 Tracker (1965–2023)
-**Dataset:** BP Statistical Review  
-**Goal:** Visualize energy source transitions over six decades  
-**Result:** Layered area chart with cumulative energy mix and source proportions.
-
-[🔗 View Notebook](https://example.com/global-energy)
-
----
-
 ### • Data Dashboard Template
-**Dataset:** Crunchbase API, custom scrapers  
-**Goal:** Map VC funding distribution across African regions  
-**Result:** Interactive chloropleth map using Plotly + Mapbox with tooltip drilldowns.
+**Tools:** Tailwind, Recharts, React  
+**Goal:** Reusable, themable data dashboard in React
 
-[🔗 Open Visualization](https://example.com/funding-map)
+![Yogo Dashboard Screenshot](images/yogo-dashboard.png)
+
+[Open Demo](https://yogo-demo.vercel.app/)
+[Open Source](https://github.com/od41/yogo-uiki)
 
 ---
 
-## 🧩 Tools & Techniques
+## Tools & Techniques
 
 **Visualization Libraries:** Recharts, D3.js
 **Data Processing:** Pandas, SQL  
