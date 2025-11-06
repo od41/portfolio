@@ -40,8 +40,3 @@ A collection of dashboards, analytics projects, and visual explorations — desi
 **Visualization Libraries:** Recharts, D3.js
 **Data Processing:** Pandas, SQL  
 **Frontend Frameworks:** React, Next.js, Framer Motion  
-
----
-
-> “Data visualization is not about decoration — it’s about compression. The right chart can replace a thousand words.”
-
